@@ -1,0 +1,75 @@
+{
+	"urlsource" : "http://www.moetron.com/2015/06/12/summer-2015-visual-guides-anime-schedule-pv-collection/",
+	"anime" : [
+		{
+			"name": "Gintama°",
+			"malID": "28977",
+			"day": "wed",
+			"startDate": "[4/8]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "Owarimonogatari",
+			"malID": "31181",
+			"day": "sat",
+			"startDate": "[10/3]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "K: Return of Kings",
+			"malID": "27991",
+			"day": "fri",
+			"startDate": "[10/2]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "Noragami Aragoto",
+			"malID": "30503",
+			"day": "fri",
+			"startDate": "[10/2]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "One Punch Man",
+			"malID": "30276",
+			"day": "sun",
+			"startDate": "[10/4]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "Yuru Yuri 3",
+			"malID": "30279",
+			"day": "mon",
+			"startDate": "[10/5]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "Utawarerumono",
+			"malID": "30901",
+			"day": "sat",
+			"startDate": "[10/3]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "Ore ga Ojou-sama",
+			"malID": "25099",
+			"day": "thu",
+			"startDate": "[10/8]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "Sakurako-san",
+			"malID": "30187",
+			"day": "wed",
+			"startDate": "[10/7]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "Rakudai Kishi no Cavalry",
+			"malID": "30296",
+			"day": "sat",
+			"startDate": "[10/3]",
+			"groupLink": "/nothing"
+		}
+	]
+}

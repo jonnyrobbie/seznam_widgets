@@ -1,0 +1,139 @@
+<head>
+<meta charset="utf-8">
+
+<script>
+function main() {
+	var jsonObj = JSON.parse(getSched());
+	for (var i=0; i<parseInt(jsonObj.anime.length,10); i++) {
+		var item = document.createElement("li");
+		var link = document.createElement("a");
+		var group = document.createElement("a");
+		var list = document.getElementById(jsonObj.anime[i].day);
+		link.href = "http://myanimelist.net/anime/" + jsonObj.anime[i].malID;
+		link.innerHTML = jsonObj.anime[i].name;
+		group.href = jsonObj.anime[i].groupLink;
+		group.innerHTML = jsonObj.anime[i].startDate;
+		group.className = "subgroup";
+		item.appendChild(link);
+		item.appendChild(group);
+		list.appendChild(item);
+	}
+}
+function getSched() {
+	var jsonResponse;
+	var animeMeta = new XMLHttpRequest();
+	function reqListener () {
+		jsonResponse = this.responseText;
+	}
+	animeMeta.onload = reqListener;
+	animeMeta.open("get", "sched.json", false);
+	animeMeta.send();
+	return jsonResponse;
+}
+window.onload=function() {main();}
+</script>
+
+</head>
+<style>
+table, tr, td {
+	border: 1px solid #FFF5D9;
+	border-collapse: collapse;
+	font-size: 13px;
+}
+td {
+	padding: 3px;
+}
+ul {
+	padding-left: 15px;
+}
+a {
+	color: black;
+}
+body {
+	font-family: sans-serif;
+	margin: 0px;
+}
+.subgroup {
+	margin-left: 5px;
+	font-size: 9px;
+	vertical-align: 2px;
+	color: #888;
+}
+.furi {
+	cursor:default!important;
+	text-decoration:none;
+	line-height:1;
+	text-align:center;
+	display:inline-block;
+	color:inherit!important;
+	font-family: sans-serif;
+}
+.furi:before {
+	font-size:0.70em;
+	font-weight:normal;
+	line-height:1.2;
+	cursor:pointer;
+	text-decoration:none;
+	display:block;
+	content:attr(title);
+}
+</style>
+
+<table border="0">
+	<tr>
+		<td><span class="furi" title="げつ">月</span></td>
+		<td>
+			<ul id="mon">
+				
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td><span class="furi" title="か">火</span></td>			
+		<td>
+			<ul id="tue">
+				
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td><span class="furi" title="すい">水</span></td>
+		<td>
+			<ul id="wed">
+				
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td><span class="furi" title="もく">木</span></td>
+		<td>
+			<ul id="thu">
+				
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td><span class="furi" title="きん">金</span></td>
+		<td>
+			<ul id="fri">
+				
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td><span class="furi" title="ど">土</span></td>
+		<td>
+			<ul id="sat">
+				
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td><span class="furi" title="にち">日</span></td>
+		<td>
+			<ul id="sun">
+				
+			</ul>
+		</td>
+	</tr>
+</table>

@@ -1,0 +1,68 @@
+{
+	"urlsource" : "http://www.moetron.com/2015/03/22/spring-2015-visual-guides-anime-schedule-pv-collection/",
+	"anime" : [
+		{
+			"name": "Fate/Stay Night",
+			"malID": "28701",
+			"day": "sat",
+			"startDate": "[4/4]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "Gintama°",
+			"malID": "28977",
+			"day": "wed",
+			"startDate": "[4/8]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "High School DxD",
+			"malID": "24703",
+			"day": "sat",
+			"startDate": "[4/4]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "Nisekoi",
+			"malID": "27787",
+			"day": "fri",
+			"startDate": "[4/10]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "Ore Monogatari",
+			"malID": "28297",
+			"day": "wed",
+			"startDate": "[4/8]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "Plastic Memories",
+			"malID": "27775",
+			"day": "sat",
+			"startDate": "[4/4]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "Sidonia no Kishi",
+			"malID": "24893",
+			"day": "fri",
+			"startDate": "[4/10]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "Oregairu 2",
+			"malID": "23847",
+			"day": "thu",
+			"startDate": "[4/2]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "Ansatsu Kyoushitsu",
+			"malID": "24833",
+			"day": "thu",
+			"startDate": "[1/9]",
+			"groupLink": "/nothing"
+		}
+	]
+}
