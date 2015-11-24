@@ -4,7 +4,7 @@
 // @namespace      https://greasyfork.org/en/users/98-jonnyrobbie
 // @author         JonnyRobbie
 // @include        /^https?:\/\/(www\.)?seznam\.cz\/.*$/
-// @version        1.0
+// @version        1.1
 // ==/UserScript==
 
 var url = ["https://htmlpreview.github.io/?https://raw.githubusercontent.com/jonnyrobbie/seznam_widgets/master/links.html", "https://htmlpreview.github.io/?https://raw.githubusercontent.com/jonnyrobbie/seznam_widgets/master/anime_seasonal_table.html", ""];
