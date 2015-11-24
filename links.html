@@ -6,9 +6,25 @@ table, tr, td
 	border-collapse: collapse;
 	font-size: 13px;
 }
-table
+table, .quote
 {
 	float: left;
+}
+.quote
+{
+	font-size: 13px;
+	margin: 0px 10px 0px;
+	text-align: justify;
+}
+.author
+{
+	font-style: italic;
+	text-align: right;
+	margin: 0px 0px 10px;
+}
+.quo
+{
+	margin: 0px;
 }
 td
 {
@@ -29,93 +45,120 @@ body
 	font-family: sans-serif;
 	margin: 0px;
 }
+#main
+{
+	max-width: 330px;
+}
 .title
 {
 	font-weight: bold;
 }
 
+
 </style>
-<table border="0">
-	<tr>
-		<td>
-			<span class="title">Fate/Hollow Ataraxia</span>
-			<ul>
-				<li><a href="http://seiba.us.to/entrans/main.php">Translation status</a></li>
-				<li><a href="https://docs.google.com/spreadsheet/ccc?key=0Ag-du4TlnnKqdHBFX1JSU2hibHBwLW5RR0dPZGtvUmc#gid=0">Google docs status</a></li>
-			</ul>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="title">Lettle Busters EX/ME</span>
-			<ul>
-				<li><a href="https://docs.google.com/spreadsheet/ccc?pli=1&key=0Am1pV7ssY0D7dExyd3NxUTNGNUFHRWNLZjV3em8xbEE#gid=0">Google docs status</a></li>
-				<li><a href="http://vntls.tindabox.net/project/little-busters/">VNTL Status Tracker</a></li>
-			</ul>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="title">White Album 2</span>
-			<ul>
-				<li><a href="http://www.baka-tsuki.org/project/index.php?title=White_Album_2">baka-tsuki.org</a></li>
-				<li><a href="http://dl.dropbox.com/u/4910378/WA2/stats/stats.txt">baka-tsuki dropbox status</a></li>
-				<li><a href="http://vntls.org/project/white-album-2/">VNTL Status Tracker</a></li>
-			</ul>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<span class="title">Grisaia no Meikyuu</span>
-			<ul>
-				<li><a href="http://tlwiki.org/index.php?title=Grisaia_no_Meikyuu">tlwiki.org</a></li>
-				<li><a href="https://docs.google.com/spreadsheet/ccc?key=0Ag-du4TlnnKqdDJJM3E2RGtJMXpBZDBnV05OeW1oM1E#gid=0">Google docs status</a></li>
-			</ul>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<ul>
-				<li><a href="http://www.baka-tsuki.org/project/index.php?title=Kokoro_Connect:Updates">Kokoro Connect</a></li>
-				<li><a href="http://amaterasu.tindabox.net/index.php?page=projects">Amaterasu</a></li>
-			</ul>
-		</td>
-	</tr>	
-</table>
-<table border="0">
-	<tr>
-		<td>
-			<ul>
-				<li><a href="http://mangatraders.com/">Mangatraders</a></li>
-				<li><a href="http://batoto.net/">Batoto</a></li>
-				<li><a href="http://naruto.anifreak.com/manga/naruto/">Naruto manga</a></li>
-			</ul>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<ul>
-				<li><a href="http://www.yorozuyasoul.com/general/arcs.php">Gintama arcs</a></li>
-				<li><a href="http://i.imgur.com/ESNwP.jpg">MuvLuv chart</a></li>
-				<li><a href="http://megatokyo.com/strip/148">Megatokyo (148)</a></li>
-			</ul>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<ul>
-				<li><a href="http://www.kaise123.com/minecraft/McOpenLauncher/">McOpenLauncher</a></li>
-				
-			</ul>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<ul>
-				<li><a href="http://gskinner.com/RegExr/">RegEx online editor</a></li>
-				<li><a href="http://www.codecogs.com/latex/eqneditor.php">LaTeX online editor</a></li>
-				<li><a href="http://25.149.54.5:8080/">qBittorrent WebGUI</a></li>
-			</ul>
-		</td>
-	</tr>	
-</table>
+<div id="main">
+	<div>
+		<table border="0">
+			<tr>
+				<td>
+					<span class="title">Lettle Busters EX/ME</span>
+					<ul>
+						<li><a href="https://docs.google.com/spreadsheet/ccc?pli=1&key=0Am1pV7ssY0D7dExyd3NxUTNGNUFHRWNLZjV3em8xbEE#gid=0">Google docs status</a></li>
+						<li><a href="http://vntls.tindabox.net/project/little-busters/">VNTL Status Tracker</a></li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<span class="title">White Album 2</span>
+					<ul>
+						<li><a href="http://www.baka-tsuki.org/project/index.php?title=White_Album_2">baka-tsuki.org</a></li>
+						<li><a href="http://dl.dropbox.com/u/4910378/WA2/stats/stats.txt">baka-tsuki dropbox status</a></li>
+						<li><a href="http://vntls.org/project/white-album-2/">VNTL Status Tracker</a></li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<ul>
+						<li><a href="http://www.baka-tsuki.org/project/index.php?title=Kokoro_Connect:Updates">Kokoro Connect</a></li>
+						<li><a href="http://amaterasu.tindabox.net/index.php?page=projects">Amaterasu</a></li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<ul>
+						<li><a href="http://cal.syoboi.jp/">syoboi schedule</a></li>
+						<li><a href="http://imgur.com/a/fjJCI">Yuri album</a></li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<ul>
+						<li><a href="http://mangatraders.com/">Mangatraders</a></li>
+						<li><a href="http://myanimelist.net/profile/JonnyRobbie">MALGraph2</a></li>
+						<li><a href="https://danbooru.donmai.us/wiki_pages/58938">Pixiv API</a></li>
+					</ul>
+				</td>
+			</tr>
+		</table>
+		<table border="0">
+			<tr>
+				<td>
+					<ul>
+						<li><a href="http://www.yorozuyasoul.com/general/arcs.php">Gintama arcs</a></li>
+						<li><a href="http://i.imgur.com/ESNwP.jpg">MuvLuv chart</a></li>
+						<li><a href="http://megatokyo.com/strip/148">Megatokyo (148)</a></li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<ul>
+						<li><a href="http://gskinner.com/RegExr/">RegEx online editor</a></li>
+						<li><a href="http://www.codecogs.com/latex/eqneditor.php">LaTeX online editor</a></li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<ul>
+						<li><a href="http://simplex.tode.cz">simplex online</a></li>
+						<li><a href="http://gen.lib.rus.ec/">Library Genesis</a></li>
+						<li><a href="http://merkel.zoneo.net/Latex/natbib.php">natbib reference</a></li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				<span class="title">Mapy</span>
+					<ul>
+						<li><a href="http://www.mapy.cz/s/bW9z">mapa 1</a></li>
+						<li><a href="http://www.mapy.cz/s/bWbe">mapa 2</a></li>
+						<li><a href="http://mapy.cz/s/fGjQ">mapa 3</a></li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				<span class="title">PC Specs</span>
+					<ul>
+						<li><a href="http://pastebin.com/f2eByd7w">babi-PC</a></li>
+						<li><a href="http://pastebin.com/ZGzpVfaB">chata-PC</a></li>
+					</ul>
+				</td>
+			</tr>
+		</table>
+	</div>
+
+	<div class="quote">
+		<p class="quo">"A complete waste of a voice actor"</p>
+		<p class="author">-Sakata Gintoki</p>
+		<p class="quo">"I've seen better, to be honest. To be even more honest, I don't think I've ever seen worse."</p>
+		<p class="author">-Kazami Yuuji</p>
+		<p class="quo">"The world isn't so complicated. Walk forward and you'll find the future. Turn back and you'll find your memories. Cut off a piece and you've got a story. This is just one small part of one such tale."</p>
+		<p class="author">-Kazami Yuuji</p>
+	</div>
+</div>
