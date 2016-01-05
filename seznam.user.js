@@ -8,7 +8,7 @@
 // ==/UserScript==
 
 var url = ["https://htmlpreview.github.io/?https://raw.githubusercontent.com/jonnyrobbie/seznam_widgets/master/links.html", "https://htmlpreview.github.io/?https://raw.githubusercontent.com/jonnyrobbie/seznam_widgets/master/anime_seasonal_table.html", ""];
-var size = [521, 333, 0];
+var size = [538, 333, 0];
 window.scrIframes = {};
 function main() {
 	for (i=0;i<url.length;i++) {
