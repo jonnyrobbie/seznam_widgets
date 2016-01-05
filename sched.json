@@ -54,6 +54,20 @@
 			"name": "Ajin",
 			"malID": "31580",
 			"day": "fri",
+			"startDate": "[1/15]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "Ao no Kanata no Four Rhythm",
+			"malID": "28391",
+			"day": "mon",
+			"startDate": "[1/18]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "Koukaku no Pandora",
+			"malID": "32214",
+			"day": "fri",
 			"startDate": "[1/8]",
 			"groupLink": "/nothing"
 		}
