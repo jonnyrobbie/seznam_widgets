@@ -4,11 +4,11 @@
 // @namespace      https://greasyfork.org/en/users/98-jonnyrobbie
 // @author         JonnyRobbie
 // @include        /^https?:\/\/(www\.)?seznam\.cz\/.*$/
-// @version        1.2
+// @version        1.2.1
 // ==/UserScript==
 
 var url = ["https://htmlpreview.github.io/?https://raw.githubusercontent.com/jonnyrobbie/seznam_widgets/master/links.html", "https://htmlpreview.github.io/?https://raw.githubusercontent.com/jonnyrobbie/seznam_widgets/master/anime_seasonal_table.html", ""];
-var size = [538, 333, 0];
+var size = [538, 367, 0];
 window.scrIframes = {};
 function main() {
 	for (i=0;i<url.length;i++) {

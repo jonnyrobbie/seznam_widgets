@@ -44,8 +44,22 @@
 			"groupLink": "/nothing"
 		},
 		{
+			"name": "Boku Dake ga Inai Machi",
+			"malID": "31043",
+			"day": "thu",
+			"startDate": "[1/7]",
+			"groupLink": "/nothing"
+		},
+		{
 			"name": "Sekkou Boys",
 			"malID": "31540",
+			"day": "fri",
+			"startDate": "[1/8]",
+			"groupLink": "/nothing"
+		},
+		{
+			"name": "Shouwa Genroku Rakugo Shinjuu",
+			"malID": "28735",
 			"day": "fri",
 			"startDate": "[1/8]",
 			"groupLink": "/nothing"
