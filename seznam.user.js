@@ -5,17 +5,19 @@
 // @author         JonnyRobbie
 // @include        /^https?:\/\/(www\.)?seznam\.cz\/.*$/
 // @version        1.2.1
+// @grant          none
 // ==/UserScript==
 
 var url = ["https://htmlpreview.github.io/?https://raw.githubusercontent.com/jonnyrobbie/seznam_widgets/master/links.html", "https://htmlpreview.github.io/?https://raw.githubusercontent.com/jonnyrobbie/seznam_widgets/master/anime_seasonal_table.html", ""];
 var size = [538, 367, 0];
 window.scrIframes = {};
-function main() {
+var timer = 0;
+
+function replaceNotes() {
 	for (i=0;i<url.length;i++) {
 		if (url[i] != "") {
-			console.log("Seznam " + i);
 			var note = document.getElementsByClassName("notes-list")[0].childNodes[i].childNodes[1];
-			console.log("var " + i);
+			console.log("Frame " + i + ": " + url[i]);
 			scrIframes[i] = new Object
 			scrIframes[i] = document.createElement("iframe");
 			scrIframes[i].src = url[i];
@@ -26,6 +28,22 @@ function main() {
 			note.appendChild(scrIframes[i]);
 		}
 	}
+}
+
+function testNote() {
+	var note = document.getElementsByClassName("notes-list")[0].childNodes[0].childNodes[1];
+	if (note == null) {
+		console.log("Note not found. Repeating...");
+	} else {
+		clearInterval(timer);
+		console.log("Note found. Rendering iframes...");
+		replaceNotes();
+	}
+}
+
+function main() {
+	console.log("Seznam iframe widgets loading...");
+	timer = setInterval(function() {testNote();}, 100);
 }
 
 main();
