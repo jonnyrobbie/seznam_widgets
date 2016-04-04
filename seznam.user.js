@@ -4,7 +4,7 @@
 // @namespace      https://greasyfork.org/en/users/98-jonnyrobbie
 // @author         JonnyRobbie
 // @include        /^https?:\/\/(www\.)?seznam\.cz\/.*$/
-// @version        1.2.1
+// @version        1.3
 // @grant          none
 // ==/UserScript==
 
