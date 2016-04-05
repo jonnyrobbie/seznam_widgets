@@ -47,35 +47,35 @@
             "name": "Kiznaiver",
 			"malID": "31798",
 			"day": "sat",
-			"startDate": "4/9",
+			"startDate": "[4/9]",
 			"groupLink": "/nothing"
 		},
 		{
             "name": "Koutetsujou no Kabaneri",
 			"malID": "28623",
 			"day": "thu",
-			"startDate": "4/8",
+			"startDate": "[4/8]",
 			"groupLink": "/nothing"
 		},
 		{
             "name": "Macross Δ",
 			"malID": "28013",
 			"day": "sun",
-			"startDate": "4/3",
+			"startDate": "[4/3]",
 			"groupLink": "/nothing"
 		},
 		{
             "name": "Sakamoto desu ga?",
 			"malID": "32542",
 			"day": "wed",
-			"startDate": "4/7",
+			"startDate": "[4/7]",
 			"groupLink": "/nothing"
 		},
 		{
             "name": "Uchuu Patrol Luluco",
 			"malID": "32681",
 			"day": "fri",
-			"startDate": "4/1",
+			"startDate": "[4/1]",
 			"groupLink": "/nothing"
 		}
 	]
