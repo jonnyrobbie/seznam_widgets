@@ -2,66 +2,10 @@
 	"urlsource" : "http://www.moetron.com/2015/06/12/summer-2015-visual-guides-anime-schedule-pv-collection/",
 	"anime" : [
 		{
-			"name": "Gintama°",
-			"malID": "28977",
-			"day": "wed",
-			"startDate": "[4/8]",
-			"groupLink": "/nothing"
-		},
-		{
-			"name": "Utawarerumono",
-			"malID": "30901",
-			"day": "sat",
-			"startDate": "[10/3]",
-			"groupLink": "/nothing"
-		},
-		{
-			"name": "Musaigen no Phantom World",
-			"malID": "31442",
-			"day": "wed",
-			"startDate": "[1/6]",
-			"groupLink": "/nothing"
-		},
-		{
-			"name": "Haruchika",
-			"malID": "330895",
-			"day": "wed",
-			"startDate": "[1/6]",
-			"groupLink": "/nothing"
-		},
-		{
-			"name": "Dagashi Kashi",
-			"malID": "31636",
-			"day": "thu",
-			"startDate": "[1/7]",
-			"groupLink": "/nothing"
-		},
-		{
 			"name": "Ansatsu Kyoushitsu 2",
 			"malID": "31223",
 			"day": "thu",
 			"startDate": "[1/7]",
-			"groupLink": "/nothing"
-		},
-		{
-			"name": "Boku Dake ga Inai Machi",
-			"malID": "31043",
-			"day": "thu",
-			"startDate": "[1/7]",
-			"groupLink": "/nothing"
-		},
-		{
-			"name": "Sekkou Boys",
-			"malID": "31540",
-			"day": "fri",
-			"startDate": "[1/8]",
-			"groupLink": "/nothing"
-		},
-		{
-			"name": "Shouwa Genroku Rakugo Shinjuu",
-			"malID": "28735",
-			"day": "fri",
-			"startDate": "[1/8]",
 			"groupLink": "/nothing"
 		},
 		{
@@ -72,17 +16,66 @@
 			"groupLink": "/nothing"
 		},
 		{
-			"name": "Ao no Kanata no Four Rhythm",
-			"malID": "28391",
-			"day": "mon",
-			"startDate": "[1/18]",
+            "name": "Big Order",
+			"malID": "31904",
+			"day": "fri",
+			"startDate": "[4/16]",
 			"groupLink": "/nothing"
 		},
 		{
-			"name": "Koukaku no Pandora",
-			"malID": "32214",
+            "name": "Boku no Hero Academia",
+			"malID": "31964",
+			"day": "sun",
+			"startDate": "[4/3]",
+			"groupLink": "/nothing"
+		},
+		{
+            "name": "flying witch",
+			"malID": "31376",
+			"day": "sat",
+			"startDate": "[4/10]",
+			"groupLink": "/nothing"
+		},
+		{
+            "name": "Gyakuten Saiban",
+			"malID": "31630",
+			"day": "sat",
+			"startDate": "[4/2]",
+			"groupLink": "/nothing"
+		},
+		{
+            "name": "Kiznaiver",
+			"malID": "31798",
+			"day": "sat",
+			"startDate": "4/9",
+			"groupLink": "/nothing"
+		},
+		{
+            "name": "Koutetsujou no Kabaneri",
+			"malID": "28623",
+			"day": "thu",
+			"startDate": "4/8",
+			"groupLink": "/nothing"
+		},
+		{
+            "name": "Macross Δ",
+			"malID": "28013",
+			"day": "sun",
+			"startDate": "4/3",
+			"groupLink": "/nothing"
+		},
+		{
+            "name": "Sakamoto desu ga?",
+			"malID": "32542",
+			"day": "wed",
+			"startDate": "4/7",
+			"groupLink": "/nothing"
+		},
+		{
+            "name": "Uchuu Patrol Luluco",
+			"malID": "32681",
 			"day": "fri",
-			"startDate": "[1/8]",
+			"startDate": "4/1",
 			"groupLink": "/nothing"
 		}
 	]
