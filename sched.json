@@ -9,13 +9,6 @@
 			"groupLink": "/nothing"
 		},
 		{
-			"name": "Ajin",
-			"malID": "31580",
-			"day": "fri",
-			"startDate": "[1/15]",
-			"groupLink": "/nothing"
-		},
-		{
             "name": "Big Order",
 			"malID": "31904",
 			"day": "fri",
@@ -83,6 +76,13 @@
 			"malID": "32681",
 			"day": "fri",
 			"startDate": "[4/1]",
+			"groupLink": "/nothing"
+		},
+		{
+            "name": "Netoge",
+			"malID": "31404",
+			"day": "thu",
+			"startDate": "[4/7]",
 			"groupLink": "/nothing"
 		}
 	]
