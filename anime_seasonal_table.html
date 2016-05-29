@@ -26,7 +26,7 @@ function getSched() {
 		jsonResponse = this.responseText;
 	}
 	animeMeta.onload = reqListener;
-	animeMeta.open("get", "https://raw.githubusercontent.com/jonnyrobbie/seznam_widgets/master/sched.json", false);
+	animeMeta.open("get", "sched.json", false);
 	animeMeta.send();
 	return jsonResponse;
 }
