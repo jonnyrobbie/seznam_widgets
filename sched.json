@@ -2,34 +2,6 @@
 	"urlsource" : "http://www.moetron.com/2015/06/12/summer-2015-visual-guides-anime-schedule-pv-collection/",
 	"anime" : [
 		{
-			"name": "Ansatsu Kyoushitsu 2",
-			"malID": "31223",
-			"day": "thu",
-			"startDate": "[1/7]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=assassination"
-		},
-		{
-            "name": "Big Order",
-			"malID": "31904",
-			"day": "fri",
-			"startDate": "[4/16]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=big+order"
-		},
-		{
-            "name": "Boku no Hero Academia",
-			"malID": "31964",
-			"day": "sun",
-			"startDate": "[4/3]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=academia"
-		},
-		{
-            "name": "flying witch",
-			"malID": "31376",
-			"day": "sat",
-			"startDate": "[4/10]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=flying+witch"
-		},
-		{
             "name": "Gyakuten Saiban",
 			"malID": "31630",
 			"day": "sat",
@@ -44,20 +16,6 @@
 			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=re+zero"
         },
 		{
-            "name": "Kiznaiver",
-			"malID": "31798",
-			"day": "sat",
-			"startDate": "[4/9]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=kiznaiver"
-		},
-		{
-            "name": "Koutetsujou no Kabaneri",
-			"malID": "28623",
-			"day": "thu",
-			"startDate": "[4/8]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=kabaneri"
-		},
-		{
             "name": "Macross Δ",
 			"malID": "28013",
 			"day": "sun",
@@ -65,25 +23,46 @@
 			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=macross"
 		},
 		{
-            "name": "Sakamoto desu ga?",
-			"malID": "32542",
-			"day": "thu",
-			"startDate": "[4/8]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=sakamoto"
-		},
-		{
-            "name": "Uchuu Patrol Luluco",
-			"malID": "32681",
+            "name": "91 days",
+			"malID": "32998",
 			"day": "fri",
-			"startDate": "[4/1]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=luluco"
+			"startDate": "[7/9]",
+			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=91+20days"
 		},
 		{
-            "name": "Netoge",
-			"malID": "31404",
-			"day": "thu",
-			"startDate": "[4/7]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=netoge"
+            "name": "Ange Vierge",
+			"malID": "32171",
+			"day": "sat",
+			"startDate": "[7/10]",
+			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=vierge"
+		},
+		{
+            "name": "Fate/kaleid liner",
+			"malID": "31706",
+			"day": "wed",
+			"startDate": "[7/6]",
+			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=kaleid"
+		},
+		{
+            "name": "Mob Psycho 100",
+			"malID": "32182",
+			"day": "mon",
+			"startDate": "[7/12]",
+			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=mob+psycho"
+		},
+		{
+            "name": "orange",
+			"malID": "32729",
+			"day": "sun",
+			"startDate": "[7/3]",
+			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=orange"
+		},
+		{
+            "name": "Rewrite",
+			"malID": "31716",
+			"day": "sat",
+			"startDate": "[7/2]",
+			"groupLink": ""
 		}
 	]
 }
