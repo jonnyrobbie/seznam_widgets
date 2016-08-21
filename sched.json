@@ -16,7 +16,7 @@
 			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=re+zero"
         },
 		{
-            "name": "Macross Δ",
+            "name": "Macross ??",
 			"malID": "28013",
 			"day": "sun",
 			"startDate": "[4/3]",
@@ -27,14 +27,7 @@
 			"malID": "32998",
 			"day": "fri",
 			"startDate": "[7/9]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=91+20days"
-		},
-		{
-            "name": "Ange Vierge",
-			"malID": "32171",
-			"day": "sat",
-			"startDate": "[7/10]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=vierge"
+			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=91+days"
 		},
 		{
             "name": "Fate/kaleid liner",
@@ -62,7 +55,7 @@
 			"malID": "31716",
 			"day": "sat",
 			"startDate": "[7/2]",
-			"groupLink": ""
+			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=rewrite"
 		}
 	]
 }
