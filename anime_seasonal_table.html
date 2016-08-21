@@ -19,7 +19,8 @@ function main() {
 		list.appendChild(item);
 	}
 	var today = new Date;
-	var daysOfWeek = ["mon", "tue", "wed", "thu", "fri", "sat", "sun"];	document.getElementById(daysOfWeek[today.getDay()-1]).parentNode.parentNode.classList.add("today");
+	var daysOfWeek = ["sun", "mon", "tue", "wed", "thu", "fri", "sat"];
+	document.getElementById(daysOfWeek[today.getDay()]).parentNode.parentNode.classList.add("today");
 }
 function getSched() {
 	var jsonResponse;
