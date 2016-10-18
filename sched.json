@@ -2,60 +2,53 @@
 	"urlsource" : "http://www.moetron.com/2015/06/12/summer-2015-visual-guides-anime-schedule-pv-collection/",
 	"anime" : [
 		{
-            "name": "Gyakuten Saiban",
-			"malID": "31630",
+            "name": "3-gatsu no Lion",
+			"malID": "31646",
 			"day": "sat",
-			"startDate": "[4/2]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=ace+attorney"
+			"startDate": "",
+			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=3-gatsu"
 		},
 		{
-            "name": "Re:Zero ",
-			"malID": "31240",
-			"day": "sun",
-			"startDate": "[4/4]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=re+zero"
-        },
-		{
-            "name": "Macross Δ",
-			"malID": "28013",
-			"day": "sun",
-			"startDate": "[4/3]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=macross"
-		},
-		{
-            "name": "91 days",
-			"malID": "32998",
+            "name": "Ajin 2",
+			"malID": "33253",
 			"day": "fri",
-			"startDate": "[7/9]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=91+days"
+			"startDate": "",
+			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=ajin"
 		},
 		{
-            "name": "Fate/kaleid liner",
-			"malID": "31706",
+            "name": "FLIP FLAPPERS",
+			"malID": "32979",
+			"day": "thu",
+			"startDate": "",
+			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=flappers"
+		},
+		{
+            "name": "Hibike! Euphonium 2",
+			"malID": "31988",
 			"day": "wed",
-			"startDate": "[7/6]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=kaleid"
+			"startDate": "",
+			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=hibike"
 		},
 		{
-            "name": "Mob Psycho 100",
-			"malID": "32182",
-			"day": "mon",
-			"startDate": "[7/12]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=mob+psycho"
-		},
-		{
-            "name": "orange",
-			"malID": "32729",
-			"day": "sun",
-			"startDate": "[7/3]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=orange"
-		},
-		{
-            "name": "Rewrite",
-			"malID": "31716",
+            "name": "Occultic;Nine",
+			"malID": "32962",
 			"day": "sat",
-			"startDate": "[7/2]",
-			"groupLink": "http://www.nyaa.se/?page=search&cats=1_37&filter=1&term=rewrite"
+			"startDate": "",
+			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=occultic"
+		},
+		{
+            "name": "Shuumatsu no Izetta",
+			"malID": "33433",
+			"day": "sat",
+			"startDate": "",
+			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=shuumatsu"
+		},
+		{
+            "name": "Yuri!!! on ICE",
+			"malID": "32995",
+			"day": "wed",
+			"startDate": "",
+			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=yuri+on+ice"
 		}
 	]
 }
