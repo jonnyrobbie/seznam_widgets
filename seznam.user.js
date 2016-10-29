@@ -16,7 +16,7 @@ var timer = 0;
 function replaceNotes() {
 	for (i=0;i<url.length;i++) {
 		if (url[i] != "") {
-			var note = document.getElementsByClassName("notes-list")[0].childNodes[i].childNodes[1];
+			var note = document.getElementsByClassName("notes")[0].childNodes[i].childNodes[1];
 			console.log("Frame " + i + ": " + url[i]);
 			scrIframes[i] = new Object
 			scrIframes[i] = document.createElement("iframe");
@@ -31,7 +31,7 @@ function replaceNotes() {
 }
 
 function testNote() {
-	var note = document.getElementsByClassName("notes-list")[0].childNodes[0].childNodes[1];
+	var note = document.getElementsByClassName("notes")[0].childNodes[0].childNodes[1];
 	if (note == null) {
 		console.log("Note not found. Repeating...");
 	} else {
