@@ -9,46 +9,60 @@
 			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=3-gatsu"
 		},
 		{
-            "name": "Ajin 2",
-			"malID": "33253",
-			"day": "fri",
+            "name": "Chaos;Child",
+			"malID": "30485",
+			"day": "wed",
 			"startDate": "",
-			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=ajin"
+			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=chaos"
 		},
 		{
-            "name": "FLIP FLAPPERS",
-			"malID": "32979",
+            "name": "Gintama.",
+			"malID": "34096",
+			"day": "sun",
+			"startDate": "",
+			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=gintama"
+		},
+		{
+            "name": "Kobayashi-san Chi no Maidragon",
+			"malID": "33206",
+			"day": "wed",
+			"startDate": "",
+			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=kobayashi"
+		},
+		{
+            "name": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+			"malID": "32937",
+			"day": "wed",
+			"startDate": "",
+			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=subarashii"
+		},
+		{
+            "name": "Kuzu no Honkai",
+			"malID": "32949",
 			"day": "thu",
 			"startDate": "",
-			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=flappers"
+			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=honkai"
 		},
 		{
-            "name": "Hibike! Euphonium 2",
-			"malID": "31988",
-			"day": "wed",
-			"startDate": "",
-			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=hibike"
-		},
-		{
-            "name": "Occultic;Nine",
-			"malID": "32962",
+            "name": "Rewrite",
+			"malID": "34126",
 			"day": "sat",
 			"startDate": "",
-			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=occultic"
+			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=rewrite"
 		},
 		{
-            "name": "Shuumatsu no Izetta",
-			"malID": "33433",
-			"day": "sat",
-			"startDate": "",
-			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=shuumatsu"
-		},
-		{
-            "name": "Yuri!!! on ICE",
-			"malID": "32995",
+            "name": "Seiren",
+			"malID": "33836",
 			"day": "wed",
 			"startDate": "",
-			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=yuri+on+ice"
+			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=seiren"
+		},
+		{
+            "name": "Showa Genroku Rakugo Shinjuu",
+			"malID": "33095",
+			"day": "sat",
+			"startDate": "",
+			"groupLink": "https://www.nyaa.se/?page=search&cats=1_37&filter=1&term=genroku"
 		}
 	]
 }
